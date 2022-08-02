@@ -16,9 +16,15 @@ return [
     'sites' => [
 
         'default' => [
-            'name' => config('app.name'),
+            'name' => 'English',
             'locale' => 'en_US',
             'url' => '/',
+        ],
+
+        'german' => [
+            'name' => 'German',
+            'locale' => 'de_DE',
+            'url' => '/de/',
         ],
 
     ],
