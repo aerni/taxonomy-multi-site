@@ -1,0 +1,11 @@
+title: Color
+author: 12894e12-b65a-44c0-8457-95086066291a
+updated_by: 12894e12-b65a-44c0-8457-95086066291a
+updated_at: 1659449856
+blueprint: tags
+localizations:
+  german:
+    title: Farbe
+    slug: color
+    updated_by: 12894e12-b65a-44c0-8457-95086066291a
+    updated_at: 1659449888
